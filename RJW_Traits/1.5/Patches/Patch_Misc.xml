@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="GotRaped"]</xpath>
+    <value>    
+      <nullifyingTraits>
+        <li>RJW_Traits_Submissive</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="GotAnalRaped"]</xpath>
+    <value>    
+      <nullifyingTraits>
+        <li>RJW_Traits_Submissive</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="GotAnalRapedByFemale"]</xpath>
+    <value>    
+      <nullifyingTraits>
+        <li>RJW_Traits_Submissive</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="GotRapedUnconscious"]</xpath>
+    <value>    
+      <nullifyingTraits>
+        <li>RJW_Traits_Submissive</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="HateMyRapist"]</xpath>
+    <value>    
+      <nullifyingTraits>
+        <li>RJW_Traits_Submissive</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="AllowedMeToGetRaped"]</xpath>
+    <value>    
+      <nullifyingTraits>
+        <li>RJW_Traits_Submissive</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+
+</Patch>
