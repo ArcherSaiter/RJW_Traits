@@ -143,12 +143,6 @@
 			<li>Artistic</li>
 			<li>Intellectual</li>
 		</disabledWorkTags>
-		<disablesNeeds>
-          <li>Comfort</li>
-		  <li>Joy</li>
-		  <li>Beauty</li>
-		  <li>Indoors</li> 
-        </disablesNeeds>
 		<degreeDatas>
 			<li>
 			<label>animal mind</label>
@@ -157,6 +151,12 @@
 				<PsychicSensitivity>-0.9</PsychicSensitivity>
 				<MentalBreakThreshold>-0.15</MentalBreakThreshold>
 			</statOffsets>
+			<disablesNeeds>
+				<li>Comfort</li>
+				<li>Joy</li>
+				<li>Beauty</li>
+				<li>Indoors</li> 
+			</disablesNeeds>
 			</li>
 		</degreeDatas>
 	</TraitDef>
@@ -164,9 +164,6 @@
 	<TraitDef>
 		<defName>RJW_Traits_Sexually_Numb</defName>
 		<commonality>0.1</commonality>
-		<disablesNeeds>
-          <li>Sex</li>
-        </disablesNeeds>
 		<degreeDatas>
 			<li>
 			<label>sexually numb</label>
@@ -176,6 +173,9 @@
 				<MentalBreakThreshold>-0.1</MentalBreakThreshold>
 				<PsychicSensitivity>-1</PsychicSensitivity>
 			</statOffsets>
+			<disablesNeeds>
+			  <li>Sex</li>
+			</disablesNeeds>
 			</li>
 		</degreeDatas>
 	</TraitDef>
