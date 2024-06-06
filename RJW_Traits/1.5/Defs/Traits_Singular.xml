@@ -143,6 +143,12 @@
 			<li>Artistic</li>
 			<li>Intellectual</li>
 		</disabledWorkTags>
+		<disablesNeeds>
+          <li>Comfort</li>
+		  <li>Joy</li>
+		  <li>Beauty</li>
+		  <li>Indoors</li> 
+        </disablesNeeds>
 		<degreeDatas>
 			<li>
 			<label>animal mind</label>
@@ -150,6 +156,25 @@
 			<statOffsets>
 				<PsychicSensitivity>-0.9</PsychicSensitivity>
 				<MentalBreakThreshold>-0.15</MentalBreakThreshold>
+			</statOffsets>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+	
+	<TraitDef>
+		<defName>RJW_Traits_Sexually_Numb</defName>
+		<commonality>0.1</commonality>
+		<disablesNeeds>
+          <li>Sex</li>
+        </disablesNeeds>
+		<degreeDatas>
+			<li>
+			<label>sexually numb</label>
+			<description>[PAWN_nameDef] neither likes nor dislikes any type of sex including rape, does not need sex, and cannot get broken. {PAWN_pronoun} just doesn't feel it.</description>
+			<statOffsets>
+				<Vulnerability>-0.1</Vulnerability>
+				<MentalBreakThreshold>-0.1</MentalBreakThreshold>
+				<PsychicSensitivity>-1</PsychicSensitivity>
 			</statOffsets>
 			</li>
 		</degreeDatas>

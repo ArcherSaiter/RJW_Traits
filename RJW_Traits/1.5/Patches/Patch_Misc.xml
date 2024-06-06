@@ -6,6 +6,7 @@
     <value>    
       <nullifyingTraits>
         <li>RJW_Traits_Submissive</li>
+		<li>RJW_Traits_Sexually_Numb</li>
       </nullifyingTraits>
     </value>
 </Operation>
@@ -14,6 +15,7 @@
     <value>    
       <nullifyingTraits>
         <li>RJW_Traits_Submissive</li>
+		<li>RJW_Traits_Sexually_Numb</li>
       </nullifyingTraits>
     </value>
 </Operation>
@@ -22,6 +24,7 @@
     <value>    
       <nullifyingTraits>
         <li>RJW_Traits_Submissive</li>
+		<li>RJW_Traits_Sexually_Numb</li>
       </nullifyingTraits>
     </value>
 </Operation>
@@ -30,6 +33,7 @@
     <value>    
       <nullifyingTraits>
         <li>RJW_Traits_Submissive</li>
+		<li>RJW_Traits_Sexually_Numb</li>
       </nullifyingTraits>
     </value>
 </Operation>
@@ -38,6 +42,7 @@
     <value>    
       <nullifyingTraits>
         <li>RJW_Traits_Submissive</li>
+		<li>RJW_Traits_Sexually_Numb</li>
       </nullifyingTraits>
     </value>
 </Operation>
@@ -46,6 +51,352 @@
     <value>    
       <nullifyingTraits>
         <li>RJW_Traits_Submissive</li>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="FeelingBroken"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="MasochistGotRapedUnconscious"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="MasochistGotRaped"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="MasochistGotAnalRaped"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="MasochistGotAnalRapedByFemale"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="KindaLikeMyRapist"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="StoleSomeLovin"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="MadeSomeLovin"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="BloodlustStoleSomeLovin"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="FortunateGaveVirginity"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="UnfortunateLostVirginity"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="TookVirginity"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="male2trap"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="male2female"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="male2futa"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="female2trap"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="female2male"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="female2futa"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="futa2trap"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="futa2male"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="futa2female"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="trap2futa"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="trap2male"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="trap2female"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="NeedSex"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="RJW_Ahegao"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="ThatsMyFetish"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="ViolatedCorpse"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="GotBredByAnimal"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="GotAnalBredByAnimal"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="MasochistGotBredByAnimal"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="MasochistGotAnalBredByAnimal"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="ZoophileGotBredByAnimal"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="ZoophileGotAnalBredByAnimal"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="AllowedAnimalToBreed"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="GotLickedByAnimal"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="MasochistGotLickedByAnimal"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="ZoophileGotLickedByAnimal"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="AllowedAnimalToLick"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="GotGropedByAnimal"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="MasochistGotGropedByAnimal"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="ZoophileGotGropedByAnimal"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="AllowedAnimalToGrope"]</xpath>
+    <value>    
+      <nullifyingTraits>
+		<li>RJW_Traits_Sexually_Numb</li>
       </nullifyingTraits>
     </value>
 </Operation>
