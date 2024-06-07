@@ -22,7 +22,7 @@ Playful_Sadist
 * May have RandomRape Mental State (half as frequent compared to rapist)
 * Always capable of violence
 * Conflicts with Brutal_Sadist
-* Same thoughts as bloodlust
+* Same thought filter as bloodlust
 
 Brutal_Sadist 
 * x5 social Fight Chance Factor
@@ -32,7 +32,7 @@ Brutal_Sadist
 * May have RandomRape Mental State (more than 2 times as frequent compared to rapist, 5 times as frequent compared to Playful_Sadist)
 * Always capable of violence
 * Conflicts with Playful_Sadist and Kind
-* Same thoughts as bloodlust
+* Same thought filter as bloodlust
 
 Pliable
 * +1 beauty
