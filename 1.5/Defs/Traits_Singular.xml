@@ -172,10 +172,14 @@
 				<Vulnerability>-0.1</Vulnerability>
 				<MentalBreakThreshold>-0.1</MentalBreakThreshold>
 				<PsychicSensitivity>-1</PsychicSensitivity>
+				<SexFrequency>-100.0</SexFrequency>
 			</statOffsets>
-			<disablesNeeds>
+			<!--statFactors>
+				<SexFrequency>-0.1</SexFrequency>
+			</statFactors-->
+			<!--disablesNeeds>
 			  <li>Sex</li>
-			</disablesNeeds>
+			</disablesNeeds-->
 			</li>
 		</degreeDatas>
 	</TraitDef>
