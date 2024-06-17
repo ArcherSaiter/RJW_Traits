@@ -3,7 +3,7 @@
 RJW themed traits are there! Sadists, truly insatiable, submissive and pliable are now at your disposal!
 
 ## Featuring:
-* Sexually_Numb - no mood from any sex, no need, doesn't get broken, `rare`
+* Sexually_Numb - no mood from any sex, no need, doesn't get broken, (they still do lewd stuff occasionally) `rare`
 * Animal_Mind - barely allowed to work, no humanlike needs, `very rare`
 * Insatiable - wants to fuck. A LOT. But still has preferences, opposed to numphs, `uncommon`
 * Submissive - put up with rape, but can still be broken, `uncommon`
