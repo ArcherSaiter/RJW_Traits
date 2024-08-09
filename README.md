@@ -4,7 +4,7 @@ RJW themed traits are there! Sadists, truly insatiable, submissive and pliable a
 
 ## Featuring:
 * NEW Bimbo - Dumb, pretty, good at fucking `very rare`
-* NEW Incel/Femcel - Bad at ssocial, mentally unstable `rare`
+* NEW Incel/Femcel - Bad at social, mentally unstable `rare`
 * Sexually_Numb - no mood from any sex, no need, doesn't get broken, (they still do lewd stuff occasionally) `rare`
 * Animal_Mind - barely allowed to work, no humanlike needs, `very rare`
 * Insatiable - wants to fuck. A LOT. But still has preferences, opposed to numphs, `uncommon`
