@@ -3,6 +3,8 @@
 RJW themed traits are there! Sadists, truly insatiable, submissive and pliable are now at your disposal!
 
 ## Featuring:
+* NEW Bimbo - Dumb, pretty, good at fucking `very rare`
+* NEW Incel/Femcel - Bad at ssocial, mentally unstable `rare`
 * Sexually_Numb - no mood from any sex, no need, doesn't get broken, (they still do lewd stuff occasionally) `rare`
 * Animal_Mind - barely allowed to work, no humanlike needs, `very rare`
 * Insatiable - wants to fuck. A LOT. But still has preferences, opposed to numphs, `uncommon`
@@ -13,6 +15,16 @@ RJW themed traits are there! Sadists, truly insatiable, submissive and pliable a
 * Brutal_Sadist - Bloodlusty and rapist had a baby, that is even more extreme than both together, `uncommon`
 
 ## Technical Details:
+
+NEW Bimbo
+* forced passions: Sex (sexperience), Social
+* stat offsets: Beauty +2, GlobalLearningFactor -75%, SocialImpact -50%, Vulnerability +75%, SexFrequency +50%
+* skill gains: Intellectual -8, Social +3, Sex (sexperience) +8
+
+NEW Incel/Femcel
+* stat offsets: SocialImpact -25%, Vulnerability +15%, SexFrequency -25%, MentalBreakThreshold +10%
+* May have randomMentalState RandomRape if mood below 35
+* skill gains: Social -3, Sex (sexperience) -2
 
 Playful_Sadist
 * x2 social Fight Chance Factor
