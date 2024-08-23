@@ -3,8 +3,10 @@
 RJW themed traits are there! Sadists, truly insatiable, submissive and pliable are now at your disposal!
 
 ## Featuring:
-* NEW Bimbo - Dumb, pretty, good at fucking `very rare`
-* NEW Incel/Femcel - Bad at social, mentally unstable `rare`
+* Tomboy - pretty, better at social & sexual (sexperience), adjustments to vulnerability, sex frequency and break threshold. `rare`
+* Femboy - pretty, better at social & sexual (sexperience), adjustments to vulnerability, sex frequency and break threshold. `rare`
+* Bimbo/Himbo - Dumb, pretty, good at fucking `very rare` (now with 'himbo' label for males)
+* Incel/Femcel - Bad at social, mentally unstable `rare`
 * Sexually_Numb - no mood from any sex, no need, doesn't get broken, (they still do lewd stuff occasionally) `rare`
 * Animal_Mind - barely allowed to work, no humanlike needs, `very rare`
 * Insatiable - wants to fuck. A LOT. But still has preferences, opposed to numphs, `uncommon`
@@ -12,16 +14,33 @@ RJW themed traits are there! Sadists, truly insatiable, submissive and pliable a
 * Rapetoy - very attractive, super vulnerable, `uncommon`
 * Pliable - attractive, very vulnerable, `common`
 * Playful_Sadist - Bloodlust + a bit of rapist, `common`
-* Brutal_Sadist - Bloodlusty and rapist had a baby, that is even more extreme than both together, `uncommon`
+* Brutal_Sadist - Bloodlusty and rapist, mixed almost equally, `uncommon`
+
+#### Disease addon (RJW-Genes):
+* Bimbofier
+* Femboifier
+* Tomboifier
+* Rapetoifyer (with masochism)
+* Infective Insatiability
 
 ## Technical Details:
 
-NEW Bimbo
+Femboy
+* commonality = 0.1, commonalityFemale = 0.0
+* stat offsets: Beauty +1, Vulnerability +20%, SexFrequency +20%, MentalBreakThreshold +5%
+* skill gains: Social +2, Sex (sexperience) +2
+
+Tomboy
+* commonality = 0.0, commonalityFemale = 0.1
+* stat offsets: Beauty +1, Vulnerability -20%, SexFrequency +20%, MentalBreakThreshold -5%
+* skill gains: Social +2, Sex (sexperience) +2
+
+Bimbo
 * forced passions: Sex (sexperience), Social
 * stat offsets: Beauty +2, GlobalLearningFactor -75%, SocialImpact -50%, Vulnerability +75%, SexFrequency +50%
 * skill gains: Intellectual -8, Social +3, Sex (sexperience) +8
 
-NEW Incel/Femcel
+Incel/Femcel
 * stat offsets: SocialImpact -25%, Vulnerability +15%, SexFrequency -25%, MentalBreakThreshold +10%
 * May have randomMentalState RandomRape if mood below 35
 * skill gains: Social -3, Sex (sexperience) -2
