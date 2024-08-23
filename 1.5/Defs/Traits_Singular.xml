@@ -191,12 +191,17 @@
         <li MayRequire="rjw.sexperience">Sex</li>
 		<li>Social</li>
     </forcedPassions>
+	<disabledWorkTags>
+		<li>ManualSkilled</li>
+		<li>Intellectual</li>
+	</disabledWorkTags>
 	<degreeDatas>
 		<li>
-		<label>bimbo</label>
+		<label>himbo</label>
+		<labelFemale>bimbo</labelFemale>
 		<description>[PAWN_nameDef] is an attractive being, who can't seem to think about anything except {PAWN_possessive} own physical appearance. {PAWN_objective} is  as empty-headed as a soap bubble, completely absorbed in {PAWN_possessive} own vanity and will do just about anything to stay attractive, including {PAWN_possessive} own dignity. [PAWN_nameDef] is utterly clueless and has no idea how {PAWN_possessive} actions affect those around them. Better keep a close eye on {PAWN_objective}, or {PAWN_pronoun} might just get {PAWN_objective} into trouble... or a mess. Again. And again. And again. However, despite the lack of learning and basic intellectual capabilities {PAWN_pronoun} is really good at providing sexual pleasure.</description>
 		<statOffsets>
-			<Beauty>2</Beauty>
+			<Beauty>1</Beauty>
 			<GlobalLearningFactor>-0.75</GlobalLearningFactor>
 			<SocialImpact>-0.5</SocialImpact>
 			<Vulnerability>0.75</Vulnerability>
@@ -239,8 +244,8 @@
 	<commonality>0.1</commonality>
 	<degreeDatas>
 		<li>
-		<label>Incel</label>
-		<labelFemale>Femcel</labelFemale>
+		<label>incel</label>
+		<labelFemale>femcel</labelFemale>
 		<description>[PAWN_nameDef] has a deep resentment towards the opposite sex due to perceived rejection. {PAWN_pronoun} struggles with social interactions and harbors negative attitudes about relationships.</description>
 		<marketValueFactorOffset>-0.15</marketValueFactorOffset>
 		<statOffsets>
@@ -260,6 +265,50 @@
 		<skillGains>
 			<Social>-3</Social>
 			<Sex MayRequire="rjw.sexperience">-2</Sex>
+        </skillGains>
+		</li>
+	</degreeDatas>
+	</TraitDef>
+	
+	<TraitDef>
+	<defName>RJW_Traits_Femboy</defName>
+	<commonality>0.1</commonality>
+	<commonalityFemale>0.0</commonalityFemale>
+	<degreeDatas>
+		<li>
+		<label>femboy</label>
+		<description>[PAWN_nameDef] has quite femine apperance, as well as mentality, despite being a male. He doesn't mind dressing in traditionally feminine attire and adopting mannerisms that are stereotypically feminine.</description>
+		<statOffsets>
+			<Beauty>1</Beauty>
+			<Vulnerability>0.20</Vulnerability>
+			<SexFrequency>0.20</SexFrequency>
+			<MentalBreakThreshold>0.05</MentalBreakThreshold>
+		</statOffsets>
+		<skillGains>
+			<Social>2</Social>
+			<Sex MayRequire="rjw.sexperience">2</Sex>
+        </skillGains>
+		</li>
+	</degreeDatas>
+	</TraitDef>
+	
+	<TraitDef>
+	<defName>RJW_Traits_Tomboy</defName>
+	<commonality>0.0</commonality>
+	<commonalityFemale>0.1</commonalityFemale>
+	<degreeDatas>
+		<li>
+		<label>tomboy</label>
+		<description>[PAWN_nameDef] has somewhat masculine apperance, as well as mentality, despite being a female. She doesn't mind dressing in traditionally masculine attire and adopting mannerisms that are stereotypically masculine.</description>
+		<statOffsets>
+			<Beauty>1</Beauty>
+			<Vulnerability>-0.20</Vulnerability>
+			<SexFrequency>0.20</SexFrequency>
+			<MentalBreakThreshold>-0.05</MentalBreakThreshold>
+		</statOffsets>
+		<skillGains>
+			<Social>2</Social>
+			<Sex MayRequire="rjw.sexperience">2</Sex>
         </skillGains>
 		</li>
 	</degreeDatas>

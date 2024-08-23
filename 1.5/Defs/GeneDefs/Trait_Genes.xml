@@ -63,6 +63,15 @@
 		<exclusionTags>
 			<li>Sadist</li>
 		</exclusionTags>
+		<modExtensions MayRequire="vegapnk.rjw.genes">
+            <li Class="RJW_Genes.ImmunityAgainstGenesExtension">
+                <givesImmunityAgainst>
+                    <li>RJW_Unleashed_Bimbo</li>
+					<li>rjw_genes_minor_vulnerability</li>
+					<li>rjw_genes_major_vulnerability</li>
+                </givesImmunityAgainst>
+            </li>
+        </modExtensions>
 	</GeneDef>
 
 	<GeneDef ParentName="TraitBase">
@@ -81,6 +90,15 @@
 		<exclusionTags>
 			<li>Sadist</li>
 		</exclusionTags>
+		<modExtensions MayRequire="vegapnk.rjw.genes">
+            <li Class="RJW_Genes.ImmunityAgainstGenesExtension">
+                <givesImmunityAgainst>
+                    <li>RJW_Unleashed_Bimbo</li>
+					<li>rjw_genes_minor_vulnerability</li>
+					<li>rjw_genes_major_vulnerability</li>
+                </givesImmunityAgainst>
+            </li>
+        </modExtensions>
 	</GeneDef>
 
 	<GeneDef ParentName="TraitBase">
@@ -163,6 +181,35 @@
 			<li>Sex_Thirst</li>
 		</exclusionTags>
 	</GeneDef>
+	
+	<GeneDef ParentName="TraitBase">
+        <defName>RJW_Traits_xxCel_Gene</defName>
+        <label>Incel/Femcel</label>
+        <description>Carriers of this gene are socially awkward and mentally unstable.</description>
+        <iconPath>Genes/Icons/Sexually_numb</iconPath>
+        <displayOrderInCategory>9</displayOrderInCategory>    
+        <forcedTraits>
+            <li>
+                <def>RJW_Traits_xxCel</def>
+            </li>
+        </forcedTraits>
+		<biostatCpx>1</biostatCpx>
+		<biostatMet>1</biostatMet>
+	</GeneDef>
 
-
+	<GeneDef ParentName="TraitBase">
+        <defName>RJW_Traits_Bimbo_Gene</defName>
+        <label>Bimbo/Himbo</label>
+        <description>Carriers of this gene have been modified to be dumber, but prettier versions. NOT INFECTIVE</description>
+        <iconPath>Genes/Icons/Animal_mind</iconPath>
+        <biostatCpx>1</biostatCpx>
+        <biostatMet>2</biostatMet>
+        <displayOrderInCategory>10</displayOrderInCategory>
+		<forcedTraits>
+            <li>
+                <def>RJW_Traits_Bimbo</def>
+            </li>
+        </forcedTraits>
+    </GeneDef>
+	
 </Defs>
