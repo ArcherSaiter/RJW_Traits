@@ -12,6 +12,7 @@
             <allowedMeditationFocusTypes><li>Morbid</li></allowedMeditationFocusTypes>
 			<statOffsets>
 				<SexFrequency>0.1</SexFrequency>
+				<Vulnerability>-0.5</Vulnerability>
 			</statOffsets>
 			<randomMentalState>RandomRape</randomMentalState>
 			<randomMentalStateMtbDaysMoodCurve>
@@ -42,6 +43,7 @@
 			<allowedMeditationFocusTypes><li>Morbid</li></allowedMeditationFocusTypes>
 			<statOffsets>
 				<SexFrequency>0.25</SexFrequency>
+				<Vulnerability>-1</Vulnerability>
 			</statOffsets>
 			<randomMentalState>RandomRape</randomMentalState>
 			<randomMentalStateMtbDaysMoodCurve>
