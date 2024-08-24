@@ -63,8 +63,8 @@
 		<exclusionTags>
 			<li>Sadist</li>
 		</exclusionTags>
-		<modExtensions MayRequire="vegapnk.rjw.genes">
-            <li Class="RJW_Genes.ImmunityAgainstGenesExtension">
+		<modExtensions>
+            <li Class="RJW_Genes.ImmunityAgainstGenesExtension" MayRequire="vegapnk.rjw.genes">
                 <givesImmunityAgainst>
                     <li>RJW_Unleashed_Bimbo</li>
 					<li>rjw_genes_minor_vulnerability</li>
@@ -90,8 +90,8 @@
 		<exclusionTags>
 			<li>Sadist</li>
 		</exclusionTags>
-		<modExtensions MayRequire="vegapnk.rjw.genes">
-            <li Class="RJW_Genes.ImmunityAgainstGenesExtension">
+		<modExtensions>
+            <li Class="RJW_Genes.ImmunityAgainstGenesExtension" MayRequire="vegapnk.rjw.genes">
                 <givesImmunityAgainst>
                     <li>RJW_Unleashed_Bimbo</li>
 					<li>rjw_genes_minor_vulnerability</li>
@@ -200,7 +200,7 @@
 	<GeneDef ParentName="TraitBase">
         <defName>RJW_Traits_Bimbo_Gene</defName>
         <label>Bimbo/Himbo</label>
-        <description>Carriers of this gene have been modified to be dumber, but prettier versions. NOT INFECTIVE</description>
+        <description>Carriers of this gene have been modified to be dumber, but prettier versions.</description>
         <iconPath>Genes/Icons/Animal_mind</iconPath>
         <biostatCpx>1</biostatCpx>
         <biostatMet>2</biostatMet>

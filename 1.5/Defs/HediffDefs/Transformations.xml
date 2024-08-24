@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 	
-	<HediffDef Name="RJW_Unleashed_TransformationBase" Abstract="True">
+	<HediffDef MayRequire="vegapnk.rjw.genes" Name="RJW_Unleashed_TransformationBase" Abstract="True">
 		<hediffClass>HediffWithComps</hediffClass>
 		<scenarioCanAdd>false</scenarioCanAdd>
         <maxSeverity>1.0</maxSeverity>
@@ -64,25 +64,25 @@
         </stages>	
 	</HediffDef>
 	
-	<HediffDef ParentName="RJW_Unleashed_TransformationBase">
+	<HediffDef MayRequire="vegapnk.rjw.genes" ParentName="RJW_Unleashed_TransformationBase">
         <defName>RJW_Unleashed_Bimbofication</defName>
         <label>bimbofication</label>
         <description>This person is changing into a dumber, but prettier version of themself, for better or for worse.</description>
     </HediffDef>
 	
-	<HediffDef ParentName="RJW_Unleashed_TransformationBase">
+	<HediffDef MayRequire="vegapnk.rjw.genes" ParentName="RJW_Unleashed_TransformationBase">
         <defName>RJW_Unleashed_Femboification</defName>
         <label>Femboification</label>
         <description>This person is changing into a breedable femine male, for better or for worse.</description>
     </HediffDef>
 	
-	<HediffDef ParentName="RJW_Unleashed_TransformationBase">
+	<HediffDef MayRequire="vegapnk.rjw.genes" ParentName="RJW_Unleashed_TransformationBase">
         <defName>RJW_Unleashed_Tomboification</defName>
         <label>bimbofication</label>
         <description>This person is changing into somewhat masculine female, for better or for worse.</description>
     </HediffDef>
 	
-	<HediffDef ParentName="RJW_Unleashed_TransformationBase">
+	<HediffDef MayRequire="vegapnk.rjw.genes" ParentName="RJW_Unleashed_TransformationBase">
         <defName>RJW_Unleashed_Rapetoification</defName>
         <label>rapetoification</label>
         <description>This person is changing into a submissive, masochistic rapetoy, for better or for worse.</description>
