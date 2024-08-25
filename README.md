@@ -10,7 +10,7 @@ RJW themed traits are there! Sadists, truly insatiable, submissive and pliable a
 * Sexually_Numb - no mood from any sex, no need, doesn't get broken, (they still do lewd stuff occasionally) `rare`
 * Animal_Mind - barely allowed to work, no humanlike needs, `very rare`
 * Insatiable - wants to fuck. A LOT. But still has preferences, opposed to numphs, `uncommon`
-* Submissive - put up with rape, but can still be broken, `uncommon`
+* Submissive (Meek) - put up with rape, but can still be broken, `uncommon`
 * Rapetoy - very attractive, super vulnerable, `uncommon`
 * Pliable - attractive, very vulnerable, `common`
 * Playful_Sadist - Bloodlust + a bit of rapist, `common`
