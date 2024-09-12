@@ -400,5 +400,13 @@
       </nullifyingTraits>
     </value>
 </Operation>
-
+<Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThoughtDef[defName="WrongApparelGender"]</xpath>
+    <value>
+      <nullifyingTraits>
+        <li>RJW_Traits_Tomboy</li>
+        <li>RJW_Traits_Femboy</li>
+      </nullifyingTraits>
+    </value>
+</Operation>
 </Patch>
