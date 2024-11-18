@@ -149,6 +149,13 @@
 			<statOffsets>
 				<PsychicSensitivity>-0.9</PsychicSensitivity>
 				<MentalBreakThreshold>-0.15</MentalBreakThreshold>
+				<SocialImpact>-0.9</SocialImpact>
+				<AnimalGatherSpeed>0.35</AnimalGatherSpeed>
+				<AnimalGatherYield>0.2</AnimalGatherYield>
+				<EatingSpeed>0.3</EatingSpeed>
+				<Cleanliness>-0.5</Cleanliness>
+				<TameAnimalChance>0.25</TameAnimalChance>
+				<TrainAnimalChance>0.25</TrainAnimalChance>
 			</statOffsets>
 			<disablesNeeds>
 				<li>Comfort</li>
