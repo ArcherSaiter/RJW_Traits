@@ -112,6 +112,9 @@
                 <def>RJW_Traits_Pliable</def>
             </li>
         </forcedTraits>
+		<statOffsets>
+			<PawnBeauty>1</PawnBeauty>
+		</statOffsets>
 		<biostatCpx>1</biostatCpx>
 		<biostatMet>0</biostatMet>
 	</GeneDef>
@@ -127,6 +130,9 @@
                 <def>RJW_Traits_Rapetoy</def>
             </li>
         </forcedTraits>
+		<statOffsets>
+			<PawnBeauty>2</PawnBeauty>
+		</statOffsets>
 		<biostatCpx>1</biostatCpx>
 		<biostatMet>0</biostatMet>
 	</GeneDef>
@@ -195,6 +201,10 @@
         </forcedTraits>
 		<biostatCpx>1</biostatCpx>
 		<biostatMet>1</biostatMet>
+		<aptitudes>
+			<Social>-3</Social>
+			<Sex MayRequire="rjw.sexperience">-2</Sex>
+        </aptitudes>
 	</GeneDef>
 
 	<GeneDef ParentName="TraitBase">
@@ -210,6 +220,14 @@
                 <def>RJW_Traits_Bimbo</def>
             </li>
         </forcedTraits>
+		<statOffsets>
+			<PawnBeauty>1</PawnBeauty>
+		</statOffsets>
+		<aptitudes>
+			<Intellectual>-8</Intellectual>
+			<Social>3</Social>
+			<Sex MayRequire="rjw.sexperience">8</Sex>
+		</aptitudes>
     </GeneDef>
 	
 </Defs>

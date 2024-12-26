@@ -136,10 +136,13 @@
 		<disabledWorkTags>
 			<li>ManualSkilled</li>
 			<li>Cooking</li>
-			<li>Social</li>
+			<!--<li>Social</li>
+			<li>Caring</li>-->
 			<li>Shooting</li>
 			<li>Constructing</li>
+			<!--<li>PlantWork</li>-->
 			<li>Crafting</li>
+			<li>Artistic</li>
 			<li>Intellectual</li>
 		</disabledWorkTags>
 		<degreeDatas>
@@ -149,13 +152,6 @@
 			<statOffsets>
 				<PsychicSensitivity>-0.9</PsychicSensitivity>
 				<MentalBreakThreshold>-0.15</MentalBreakThreshold>
-				<SocialImpact>-0.9</SocialImpact>
-				<AnimalGatherSpeed>0.35</AnimalGatherSpeed>
-				<AnimalGatherYield>0.2</AnimalGatherYield>
-				<EatingSpeed>0.3</EatingSpeed>
-				<Cleanliness>-0.5</Cleanliness>
-				<TameAnimalChance>0.25</TameAnimalChance>
-				<TrainAnimalChance>0.25</TrainAnimalChance>
 			</statOffsets>
 			<disablesNeeds>
 				<li>Comfort</li>
@@ -205,11 +201,11 @@
 		<li>
 		<label>himbo</label>
 		<labelFemale>bimbo</labelFemale>
-		<description>[PAWN_nameDef] is an attractive being, who can't seem to think about anything except {PAWN_possessive} own physical appearance. {PAWN_objective} is  as empty-headed as a soap bubble, completely absorbed in {PAWN_possessive} own vanity and will do just about anything to stay attractive, including {PAWN_possessive} own dignity. [PAWN_nameDef] is utterly clueless and has no idea how {PAWN_possessive} actions affect those around them. Better keep a close eye on {PAWN_objective}, or {PAWN_pronoun} might just get {PAWN_objective} into trouble... or a mess. Again. And again. And again. However, despite the lack of learning and basic intellectual capabilities {PAWN_pronoun} is really good at providing sexual pleasure.</description>
+		<description>[PAWN_nameDef] is an attractive being, who can't seem to think about anything except {PAWN_possessive} own physical appearance. {PAWN_objective} is  as empty-headed as a soap bubble, completely absorbed in {PAWN_possessive} own vanity and will do just about anything to stay attractive, including {PAWN_possessive} own dignity. [PAWN_nameDef] is utterly clueless and has no idea how {PAWN_possessive} actions affect those around them. Better keep a close eye on {PAWN_objective}, or {PAWN_pronoun} might just get {PAWN_objective} into trouble... or a mess. Again. And again. And again. However, despite the lack of learning and basic intellectual capabilities {PAWN_pronoun} is quite good at providing sexual pleasure.</description>
 		<statOffsets>
 			<Beauty>1</Beauty>
-			<GlobalLearningFactor>-0.7</GlobalLearningFactor>
-			<SocialImpact>-0.25</SocialImpact>
+			<GlobalLearningFactor>-0.75</GlobalLearningFactor>
+			<SocialImpact>-0.5</SocialImpact>
 			<Vulnerability>0.75</Vulnerability>
 			<SexFrequency>0.5</SexFrequency>
 		</statOffsets>
