@@ -16,7 +16,7 @@
 	<GeneDef ParentName="TDiseaseBase" MayRequire="vegapnk.rjw.genes">
         <defName>RJW_Unleashed_Bimbofier</defName>
         <label>Bimbofier</label>
-        <description>Carriers of this gene slowly change their partners into dumb, but pretty versions.</description>
+        <description>Carriers of this gene slowly change their partners into dumb, but stereotypically attractive versions.</description>
         <iconPath>Genes/Icons/Playful_sadist</iconPath>
         <biostatCpx>3</biostatCpx>
         <biostatMet>0</biostatMet>
@@ -30,7 +30,7 @@
             <li Class="RJW_Genes.HediffIncreaseOnSexExtension">
                 <hediffDef>RJW_Unleashed_Bimbofication</hediffDef>
                 <canCreateHediff>true</canCreateHediff>
-                <severityIncrease>0.1</severityIncrease>
+                <severityIncrease>0.2</severityIncrease>
                 <applicationChance>1.00</applicationChance>
                 <applicableForWomen>true</applicableForWomen>
                 <applicableForMen>true</applicableForMen>
@@ -53,8 +53,8 @@
 					<li>Mood_Optimist</li>
 					<li>rjw_genes_size_blinded</li>
                 </minorGenes>
-                <minorApplicationChance>0.35</minorApplicationChance>
-                <majorApplicationChance>0.20</majorApplicationChance>
+                <minorApplicationChance>0.75</minorApplicationChance>
+                <majorApplicationChance>0.35</majorApplicationChance>
             </li>
         </modExtensions>
     </GeneDef>
@@ -95,12 +95,12 @@
 					<li>Libido_High</li>
 					<li>Hair_LongOnly</li>
 					<li>Beard_NoBeardOnly</li>
-					<li MayRequire="lustlicentia.rjwlabs">rjw_genes_likes_cumflation</li>
+					<li MayRequire="vegapnk.cumpilation">rjw_genes_inflatable</li>
 					<li>rjw_genes_infectious_bisexuality</li>
 					<li>rjw_genes_hormonal_saliva</li>
                 </minorGenes>
-                <minorApplicationChance>0.35</minorApplicationChance>
-                <majorApplicationChance>0.20</majorApplicationChance>
+                <minorApplicationChance>0.75</minorApplicationChance>
+                <majorApplicationChance>0.35</majorApplicationChance>
             </li>
         </modExtensions>
     </GeneDef>
@@ -142,8 +142,8 @@
 					<li>Body_Thin</li>
 					<li>MaxTemp_SmallIncrease</li>
                 </minorGenes>
-                <minorApplicationChance>0.35</minorApplicationChance>
-                <majorApplicationChance>0.20</majorApplicationChance>
+                <minorApplicationChance>0.75</minorApplicationChance>
+                <majorApplicationChance>0.35</majorApplicationChance>
             </li>
         </modExtensions>
     </GeneDef>
@@ -177,7 +177,7 @@
 					<li>Aggression_DeadCalm</li>
 					<li>rjw_genes_masochist</li>
 					<li>rjw_genes_hormonal_saliva</li>
-					<li MayRequire="lustlicentia.rjwlabs">rjw_genes_likes_cumflation</li>
+					<li MayRequire="vegapnk.cumpilation">rjw_genes_inflatable</li>
                 </majorGenes>
                 <minorGenes>
                     <li>RJW_Traits_Submissive_Gene</li>
@@ -188,8 +188,8 @@
 					<li>MoveSpeed_Slow</li>
 					<li>rjw_genes_aphrodisiac_pheromones</li>
                 </minorGenes>
-                <minorApplicationChance>0.35</minorApplicationChance>
-                <majorApplicationChance>0.20</majorApplicationChance>
+                <minorApplicationChance>0.75</minorApplicationChance>
+                <majorApplicationChance>0.35</majorApplicationChance>
             </li>
         </modExtensions>
     </GeneDef>

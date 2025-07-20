@@ -78,7 +78,7 @@
 	
 	<HediffDef MayRequire="vegapnk.rjw.genes" ParentName="RJW_Unleashed_TransformationBase">
         <defName>RJW_Unleashed_Tomboification</defName>
-        <label>bimbofication</label>
+        <label>tomboification</label>
         <description>This person is changing into somewhat masculine female, for better or for worse.</description>
     </HediffDef>
 	

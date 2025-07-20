@@ -136,11 +136,11 @@
 		<disabledWorkTags>
 			<li>ManualSkilled</li>
 			<li>Cooking</li>
-			<li>Social</li>
-			<li>Caring</li>
+			<!--<li>Social</li>
+			<li>Caring</li>-->
 			<li>Shooting</li>
 			<li>Constructing</li>
-			<li>PlantWork</li>
+			<!--<li>PlantWork</li>-->
 			<li>Crafting</li>
 			<li>Artistic</li>
 			<li>Intellectual</li>
@@ -201,9 +201,9 @@
 		<li>
 		<label>himbo</label>
 		<labelFemale>bimbo</labelFemale>
-		<description>[PAWN_nameDef] is an attractive being, who can't seem to think about anything except {PAWN_possessive} own physical appearance. {PAWN_objective} is  as empty-headed as a soap bubble, completely absorbed in {PAWN_possessive} own vanity and will do just about anything to stay attractive, including {PAWN_possessive} own dignity. [PAWN_nameDef] is utterly clueless and has no idea how {PAWN_possessive} actions affect those around them. Better keep a close eye on {PAWN_objective}, or {PAWN_pronoun} might just get {PAWN_objective} into trouble... or a mess. Again. And again. And again. However, despite the lack of learning and basic intellectual capabilities {PAWN_pronoun} is really good at providing sexual pleasure.</description>
+		<description>[PAWN_nameDef] is an attractive being, who can't seem to think about anything except {PAWN_possessive} own physical appearance. {PAWN_objective} is  as empty-headed as a soap bubble, completely absorbed in {PAWN_possessive} own vanity and will do just about anything to stay attractive, including {PAWN_possessive} own dignity. [PAWN_nameDef] is utterly clueless and has no idea how {PAWN_possessive} actions affect those around them. Better keep a close eye on {PAWN_objective}, or {PAWN_pronoun} might just get {PAWN_objective} into trouble... or a mess. Again. And again. And again. However, despite the lack of learning and basic intellectual capabilities {PAWN_pronoun} is quite good at providing sexual pleasure.</description>
 		<statOffsets>
-			<Beauty>1</Beauty>
+			<PawnBeauty>1</PawnBeauty>
 			<GlobalLearningFactor>-0.75</GlobalLearningFactor>
 			<SocialImpact>-0.5</SocialImpact>
 			<Vulnerability>0.75</Vulnerability>
@@ -281,7 +281,7 @@
 		<label>femboy</label>
 		<description>[PAWN_nameDef] has quite femine apperance, as well as mentality, despite being a male. He doesn't mind dressing in traditionally feminine attire and adopting mannerisms that are stereotypically feminine.</description>
 		<statOffsets>
-			<Beauty>1</Beauty>
+			<PawnBeauty>1</PawnBeauty>
 			<Vulnerability>0.20</Vulnerability>
 			<SexFrequency>0.20</SexFrequency>
 			<MentalBreakThreshold>0.05</MentalBreakThreshold>
@@ -303,7 +303,7 @@
 		<label>tomboy</label>
 		<description>[PAWN_nameDef] has somewhat masculine apperance, as well as mentality, despite being a female. She doesn't mind dressing in traditionally masculine attire and adopting mannerisms that are stereotypically masculine.</description>
 		<statOffsets>
-			<Beauty>1</Beauty>
+			<PawnBeauty>1</PawnBeauty>
 			<Vulnerability>-0.20</Vulnerability>
 			<SexFrequency>0.20</SexFrequency>
 			<MentalBreakThreshold>-0.05</MentalBreakThreshold>

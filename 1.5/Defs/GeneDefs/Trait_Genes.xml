@@ -195,6 +195,10 @@
         </forcedTraits>
 		<biostatCpx>1</biostatCpx>
 		<biostatMet>1</biostatMet>
+		<aptitudes>
+			<Social>-3</Social>
+			<Sex MayRequire="rjw.sexperience">-2</Sex>
+        </aptitudes>
 	</GeneDef>
 
 	<GeneDef ParentName="TraitBase">
@@ -210,6 +214,11 @@
                 <def>RJW_Traits_Bimbo</def>
             </li>
         </forcedTraits>
+		<aptitudes>
+			<Intellectual>-8</Intellectual>
+			<Social>3</Social>
+			<Sex MayRequire="rjw.sexperience">8</Sex>
+		</aptitudes>
     </GeneDef>
 	
 </Defs>
